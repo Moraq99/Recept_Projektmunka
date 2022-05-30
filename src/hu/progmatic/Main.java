@@ -6,6 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        String kiscica;
+
 
         String[] ingredients1 = {"\n25 dkg túró","\n2 db tojás (sárgája)","\n2 dl tej","\n5-8 dkg cukor","\n1 ek vaníliás pudingpor","\n1/2 rúd vanília magjai","\n1 csipet só"};
         String[] ingredients2 = {"\n3db tojás","\n1.5 bögre tej","\n2ek cukor","\n0.75 bögre liszt","\n0.25 bögre olaj","\n1 csom vaníliás cukor","\n1 csom sütőpor","\n1 csipet só"};
